@@ -7,7 +7,7 @@ Hi, I’m Prachi Chaurasia!
 🌱 Currently learning more about business analytics and data analysis
 
 🌐 Socials:
-Instagram LinkedIn Reddit [Mastodon](https://mastodon.social/@PRACHI CHAURASIA) email
+Instagram LinkedIn Reddit email
 
 💻 Tech Stack:
 Python R Azure AWS MySQL Postgres Canva Jira
