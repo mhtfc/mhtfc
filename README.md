@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Prachi Chaurasia!<br><br>📊 Aspiring Business Analyst sharing my journey and learnings in data analytics  <br>🎓 Studied Economics at Banaras Hindu University  <br>📁 Built end-to-end data analytics projects focused on business insights  <br>📈 Projects include Customer Behaviour Analysis and Global Layoffs Analysis  <br><br>🌱 Currently learning more about business analytics and data analysis<br>
+Hi, I’m Prachi Chaurasia!<br><br>📊 Aspiring Business Analyst sharing my journey and learnings in data analytics  <br>🎓 Studied Economics at Banaras Hindu University  <br>📁 Built end-to-end data analytics projects focused on business insights  <br>📈 Projects include Customer Behaviour Analysis and Global Layoffs Analysis<br>🌱 Currently learning more about business analytics and data analysis<br>
 
 
 ## 🌐 Socials:
