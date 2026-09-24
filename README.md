@@ -10,11 +10,11 @@ Hi, I'm Prachi Chaurasia — Data Analyst + Business Analyst
 # 💻 Tech Stack:
 Python | SQL (MySQL, PostgreSQL) | Excel  | Power BI | Tableau
 
-📊 Data & Analytical Skills:
+# 📊 Data & Analytical Skills:
 Data Cleaning & ETL | Cohort & Funnel Analysis | Retention Analysis | Root-Cause Analysis
 
-🧩 Problem-Solving Frameworks:
+#🧩 Problem-Solving Frameworks:
 Issue Trees / MECE Structuring | Hypothesis Testing | Business Diagnosis
 
-🗣️ Communication & Recommendations:
+#🗣️ Communication & Recommendations:
 Data Storytelling | Stakeholder Communication | Actionable Business Recommendations
