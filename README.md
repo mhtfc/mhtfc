@@ -8,7 +8,7 @@ Hi, I’m Prachi Chaurasia - **Data Analyst + Business Analyst** | I take raw da
 
 ---
 
-🔗 Socials
+ 🔗 Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mhtfc.github.io/prachi_portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-chaurasia-1aa609211/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaurasiaprachi95@gmail.com)
