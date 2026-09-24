@@ -15,7 +15,7 @@ Hi, I’m Prachi Chaurasia - **Data Analyst + Business Analyst** | I take raw da
 
 ---
 
- 🛠️ Tech Stack
+### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -25,7 +25,7 @@ Hi, I’m Prachi Chaurasia - **Data Analyst + Business Analyst** | I take raw da
 
 ---
 
- 📊 Data & Analytical Skills
+### 📊 Data & Analytical Skills
 ![Data Cleaning & ETL](https://img.shields.io/badge/Data%20Cleaning%20%26%20ETL-16A085?style=for-the-badge)
 ![Cohort & Funnel Analysis](https://img.shields.io/badge/Cohort%20%26%20Funnel%20Analysis-16A085?style=for-the-badge)
 ![Retention Analysis](https://img.shields.io/badge/Retention%20Analysis-16A085?style=for-the-badge)
@@ -33,14 +33,14 @@ Hi, I’m Prachi Chaurasia - **Data Analyst + Business Analyst** | I take raw da
 
 ---
 
- 🧩 Problem-Solving Frameworks
+### 🧩 Problem-Solving Frameworks
 ![Issue Trees / MECE](https://img.shields.io/badge/Issue%20Trees%20%2F%20MECE%20Structuring-8E44AD?style=for-the-badge)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-8E44AD?style=for-the-badge)
 ![Business Diagnosis](https://img.shields.io/badge/Business%20Diagnosis-8E44AD?style=for-the-badge)
 
 ---
 
- 🗣️ Communication & Recommendations
+### 🗣️ Communication & Recommendations
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-D35400?style=for-the-badge)
 ![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-D35400?style=for-the-badge)
 ![Actionable Recommendations](https://img.shields.io/badge/Actionable%20Business%20Recommendations-D35400?style=for-the-badge)
