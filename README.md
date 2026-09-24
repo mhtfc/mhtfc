@@ -1,8 +1,10 @@
-### About Me
-I take raw data all the way to a decision — clean it, find the insight, build the dashboard, and turn it into a recommendation founders and stakeholders can act on.
+# 👋 About Me:
 
-**Projects:** Customer Behaviour Analysis · Global Layoffs Analysis
-**Education:** BA Economics (Honors), Banaras Hindu University
+Hi, I’m Prachi Chaurasia — **Data Analyst + Business Analyst** | I take raw data all the way to a decision — clean it, find the insight, build the dashboard, and turn it into a recommendation founders and stakeholders can act on.
+
+📊 **Projects:** Customer Behaviour Analysis · Global Layoffs Analysis
+
+🎓 **Education:** BA Economics (Honors), Banaras Hindu University
 
 ---
 
